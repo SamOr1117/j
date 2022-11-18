@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Peaceful Cemetery Graveyard
+* source:	https://sketchfab.com/3d-models/a-peaceful-cemetery-graveyard-f57ce94feebd48cab3acab2426c8488f
+* author:	daydev (https://sketchfab.com/daydev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Peaceful Cemetery Graveyard" (https://sketchfab.com/3d-models/a-peaceful-cemetery-graveyard-f57ce94feebd48cab3acab2426c8488f) by daydev (https://sketchfab.com/daydev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
